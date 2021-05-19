@@ -10,7 +10,7 @@ Soluciones:
 
 1. Para el problema #1 tenemos el proceso Build.
 2. Para el problema #2 tenemos el proceso Merge.
-3. PAra el problema #3 tenemos el proceso Split.
+3. Para el problema #3 tenemos el proceso Split.
 
 Tips & Tricks
 
