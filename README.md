@@ -8,9 +8,9 @@ Problema:
 
 Solucion:
 
-1. Para el problema #1 tenemos el proceso ToyBuild.
-2. Para el problema #2 tenemos el proceso ToyMerge.
-3. Para el problema #3 tenemos el proceso ToySplit.
+1. Para el problema #1 hemos desarrollado ToyBuild.
+2. Para el problema #2 hemos desarrollado ToyMerge.
+3. Para el problema #3 hemos desarrollado ToySplit.
 
 Tips & Tricks
 
